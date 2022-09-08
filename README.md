@@ -2,6 +2,8 @@
 - Color picker resource for FiveM
 
 - Credits: https://codepen.io/aaroniker/pen/NLjmdz
+![colorpickerposter](https://user-images.githubusercontent.com/76168122/189197518-4b3f8908-b245-4768-9fab-41a4113bc3d4.png)
+
 # Usage
 ```
 local func = function (data)
