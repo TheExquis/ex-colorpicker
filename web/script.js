@@ -170,6 +170,7 @@ window.addEventListener('message', function (event) {
         showing = true;
         $("body").animate({opacity: "1"});
     }else if(data.action == 'hideUI'){
+        showing = false;
         $("body").animate({opacity: "0"});
     };
 });
@@ -178,6 +179,7 @@ $(document).on("keydown", function () {
     switch (event.keyCode) {
       case 27: // ESCAPE
       $("body").animate({opacity: "0"});
+         showing = false;
         $.post("https://ex-colorpicker/close", JSON.stringify({}));
     }
   });
