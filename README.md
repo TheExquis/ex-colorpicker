@@ -14,6 +14,4 @@ end
 exports['ex-colorpicker']:ColorPicker(func)
 ```
 
-<img src="https://user-images.githubusercontent.com/76168122/189197816-1f675391-3b0a-4fc6-a5d1-8639f05bf727.png" width="700" height="800" />
-
 
