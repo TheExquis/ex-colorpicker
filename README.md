@@ -9,4 +9,4 @@ local func = function (data)
   --  hex = #000000
   print(data.color.rgbString, data.color.rgb.r, data.color.rgb.g, data.color.rgb.b, data.color.hex)
 end
-exports['ts-colorpicker']:ColorPicker(func)```
+exports['ts-colorpicker']:ColorPicker(func)
