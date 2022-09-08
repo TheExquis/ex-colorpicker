@@ -1,6 +1,7 @@
 # EX-Colorpicker
-Color picker resource for FiveM
-Credits: https://codepen.io/aaroniker/pen/NLjmdz
+- Color picker resource for FiveM
+
+- Credits: https://codepen.io/aaroniker/pen/NLjmdz
 # Usage
 ```
 local func = function (data)
